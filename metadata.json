@@ -1,0 +1,8 @@
+{
+  "name": "Neon Snake & Synth",
+  "description": "A dark neon aesthetic web app featuring a fully playable classic Snake game and an integrated music player with AI-generated synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
